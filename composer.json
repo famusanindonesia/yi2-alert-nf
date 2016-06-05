@@ -1,0 +1,21 @@
+{
+    "name": "famusanindonesia/yii2-alert-nf",
+    "description": "Widget alert twitter bootstrap for Yii Framwork 2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fandy Mutiara Santoso",
+            "email": "famusan.indonesia@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "famusanindonesia\\alert\\": ""
+        }
+    }
+}
